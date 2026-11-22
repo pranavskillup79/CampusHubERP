@@ -1,0 +1,7 @@
+FACULTY REPORT
+Generated on: 2026-11-22 18:30:17
+----------------------------------------
+1. FC001 | Priya Shah | Age: 42 | priya@example.com | Computer Science
+2. FC002 | Arjun Das | Age: 37 | arjun@example.com | Mathematics
+----------------------------------------
+Total faculty: 2

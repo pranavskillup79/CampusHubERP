@@ -1,0 +1,7 @@
+STUDENT REPORT
+Generated on: 2026-11-22 18:30:16
+----------------------------------------
+1. ST001 | Rohan Sen | Age: 20 | rohan.sen@example.com | IT
+2. ST003 | Meera Shah | Age: 21 | meera@example.com | Physics
+----------------------------------------
+Total students: 2

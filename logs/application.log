@@ -1,0 +1,29 @@
+2026-11-22 18:30:13,929 | INFO | app.services.student_service | Student added: ST001 (Rohan Sen)
+2026-11-22 18:30:13,944 | INFO | app.services.student_service | Student added: ST002 (Ananya Rao)
+2026-11-22 18:30:13,952 | INFO | app.services.student_service | Student added: ST003 (Meera Shah)
+2026-11-22 18:30:13,961 | INFO | app.services.faculty_service | Faculty added: FC001
+2026-11-22 18:30:13,967 | INFO | app.services.faculty_service | Faculty added: FC002
+2026-11-22 18:30:13,976 | INFO | app.services.course_service | Course added: CS001
+2026-11-22 18:30:13,982 | INFO | app.services.course_service | Course added: CS002
+2026-11-22 18:30:13,989 | INFO | app.services.course_service | Course added: CS003
+2026-11-22 18:30:14,001 | INFO | app.services.student_service | Student deleted: ST002
+2026-11-22 18:30:14,018 | INFO | app.services.enrollment_service | Enrollment created: ST001 -> CS001
+2026-11-22 18:30:14,031 | INFO | app.services.enrollment_service | Enrollment created: ST001 -> CS002
+2026-11-22 18:30:14,042 | INFO | app.services.enrollment_service | Enrollment created: ST003 -> CS003
+2026-11-22 18:30:14,051 | INFO | app.services.enrollment_service | Enrollment deleted: ST001 -> CS002
+2026-11-22 18:30:14,067 | INFO | app.services.student_service | Student updated: ST001
+2026-11-22 18:30:14,077 | INFO | app.services.faculty_service | Faculty updated: FC001
+2026-11-22 18:30:14,093 | INFO | app.services.course_service | Course updated: CS001
+2026-11-22 18:36:04,978 | INFO | app.services.student_service | Student added: ST004 (Kiran Patel)
+2026-11-22 18:37:41,337 | INFO | app.services.student_service | Student added: ST005 (Kiran Patel)
+2026-11-22 18:50:33,139 | INFO | app.services.student_service | Student added: ST006 (Kiran Patel)
+2026-11-22 21:39:54,467 | INFO | app.services.student_service | Student added: ST007 (Pranav Sankpal)
+2026-11-22 22:22:07,762 | INFO | app.services.student_service | Student added: ST008 (pranav)
+2026-11-22 22:28:04,966 | INFO | app.services.faculty_service | Faculty added: FC003
+2026-11-22 22:28:49,528 | INFO | app.services.course_service | Course added: CS004
+2026-11-22 22:29:09,662 | WARNING | app.services.enrollment_service | Enrollment ST008 -> CS004 not found
+2026-11-22 22:29:09,694 | INFO | app.services.enrollment_service | Enrollment created: ST008 -> CS004
+2026-11-22 22:29:27,951 | WARNING | app.services.enrollment_service | Enrollment ST007 -> CS002 not found
+2026-11-22 22:29:27,973 | INFO | app.services.enrollment_service | Enrollment created: ST007 -> CS002
+2026-11-22 22:30:29,718 | WARNING | app.services.enrollment_service | Enrollment ST008 -> CS003 not found
+2026-11-22 22:30:29,745 | INFO | app.services.enrollment_service | Enrollment created: ST008 -> CS003
